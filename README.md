@@ -1,6 +1,6 @@
 I am a fifth-year student at Birla Institute of Technology and Science- Pilani, Goa Campus, India. I am enrolled as a student in Bachelor of Engineering(Electrical and Electronics Engineering) + Master of Science (Physics).
 
-I am currently working as an undergraduate researcher at Acoustics research lab in National University of Singapore under Dr. Mandar Chitre, working on Underwater Autonomous Vehicles.
+I am currently working as a researcher at Acoustics research lab in National University of Singapore under Dr. Mandar Chitre, working on Underwater Autonomous Vehicles.
 
 My research interests involve Autonomous robotics, Wheeled Robots, UnderWater Robots (AUVs and ROVs), Multi-Robot Systems as well as Neural Networks. I have worked with several projects in the past involving the above topics and I am currently aiming to get selected as a PhD candidate so that I can continue my research work in the field of robotics.
 
