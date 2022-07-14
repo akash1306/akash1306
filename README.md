@@ -1,7 +1,7 @@
 
 Hello there, I am Akash, a research fellow and incoming PhD candidate at the Multi-Robot System Group, Czech Technical University in Prague. And in the spirit of every programmer out there, this ReadMe is also copied from somewhere (from one of my friends, btw. Et Tu Brute?). 
 
-Google Scholar: https://scholar.google.com/citations?user=QuhL8pMAAAAJ&hl=en
+[Google Scholar](https://scholar.google.com/citations?user=QuhL8pMAAAAJ&hl=en)
 
 
 <p>
